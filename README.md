@@ -8,19 +8,14 @@ Each user has their own account, so uploaded documents and chat history are save
 
 ## Screenshots
 
-> Replace the image paths below with your own screenshots (e.g. put them in a `screenshots/` folder).
+### Home
+![Home](https://github.com/user-attachments/assets/08144458-3bf7-49f2-9abc-a01a3b7c6a41)
 
-| Login / Sign up | Upload & process PDFs |
-|---|---|
-| ![Login](screenshots<img width="1917" height="867" alt="First" src="https://github.com/user-attachments/assets/08144458-3bf7-49f2-9abc-a01a3b7c6a41" />
-/login<img width="1917" height="865" alt="login" src="https://github.com/user-attachments/assets/486285ca-30c6-419c-bab5-c514d1bd9cf7" />
-.png) | ![Upload](screenshots/upload.png) |
+### Login
+![Login](https://github.com/user-attachments/assets/486285ca-30c6-419c-bab5-c514d1bd9cf7)
 
-| Chat with sources | Multi-PDF question |
-|---|---|
-| ![Chat](scre<img width="1917" height="876" alt="3" src="https://github.com/user-attachments/assets/8b4735ec-67e8-400f-a534-f3e2cd47cd82" />
-![Uploading First.png…]()
-enshots/chat.png) | ![Multi PDF](screenshots/multi-pdf.png) |
+### Chat with sources
+![Chat](https://github.com/user-attachments/assets/8b4735ec-67e8-400f-a534-f3e2cd47cd82)
 
 ---
 
