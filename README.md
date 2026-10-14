@@ -157,16 +157,3 @@ Then open the URL shown in the terminal (usually http://localhost:8501).
 - Authentication is intentionally simple (no email verification or password reset). Add a stronger solution before any public deployment.
 
 ---
-
-## Roadmap ideas
-
-- OCR support for scanned PDFs
-- Delete individual documents from a saved library
-- Streaming responses
-- Password reset and email verification
-
----
-
-## License
-
-Add your license here (e.g. MIT).
