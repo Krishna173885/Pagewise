@@ -1,0 +1,33 @@
+# API keys
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Project data
+data/
+
+# FAISS index
+faiss_index/
+
+# User database
+users.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded documents
+uploads/
+
+# IDE files
+.vscode/
+.idea/
